@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css?family=Gaegu:400,700');
+@import url('https://fonts.googleapis.com/css?family=Dokdo|Gaegu:400,700');
+@import url('https://fonts.googleapis.com/css?family=Dosis:400,700');
+body {
+  background-image:	url("https://static.tumblr.com/1d0bb113c3f21b561632626ba63d680b/1b2nkwa/nquovk3br/tumblr_static_tumblr_static_ck2s35kufoggg4g48wsgkgc40_640.jpg");
+  font-family: "Dosis", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+  text-align: left;
+  color:#000000;
+  /* border-style: dotted;
+  border-width: 3px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-color: #BA55D3; */
+  border: 15px solid transparent;
+  padding: 10px;
+  border-image:url("pink.png")10% round;
+}
+/* h1{ */
+  #Banner{
+  text-align: center;
+  width:778px;
+  padding:2px;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:0 px;
+  background-color:#fff;
+  opacity:.75;
+  font-size:72px;
+  font-family:"Gaegu",cursive;
+  color:##808080;
+  z-index:999;
+  border-radius:10px;
+}
+
+b{
+font family:"Dokdo", cursive;
+}
+h4{
+  font-family: "Dosis", sans-serif;
+  font-weight:lighter;
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+#Banner2{
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:10px;
+  height:150px;
+  width:700px;
+  z-index:999;
+  background-color:#DDA0DD;
+  opacity:.8;
+  padding:10px;
+  font-family: "Dosis", sans-serif;
+  font-size:20px;
+  color:#000000;
+  border-radius: 5px;
+}
+#Banner3 {
+text-align: center;
+width:778px;
+padding:0px;
+margin-right:auto;
+margin-left:auto;
+margin-top:0px;
+background-color:#fff;
+opacity:.75;
+font-size:48px;
+font-family:"Gaegu",cursive;
+color:##808080;
+z-index:999;
+border-radius:10px;
+}
+button{
+  font-family:"Gaegu",cursive;
+  font-size:15px;
+  color:#000000;
+  border-radius:20px;
+  background-color:#fff;
+  opacity: .8;
+}
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+  background-color: #DDA0DD;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-family: 'Gaegu',cursive;
+  font-size: 19px;
+  color:#000000;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+} */
